@@ -1,0 +1,10 @@
+lightgbm
+scikit-learn
+tensorflow
+flask
+numpy
+gevent
+tensorflow-hub
+
+
+
